@@ -1,7 +1,7 @@
 {
   "name": "react-imc",
   "private": true,
-  "homepage": "https://luaspecht.github.io/react-imc/",
+  "homepage": "./",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
